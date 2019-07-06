@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunlight simulator", "Sunlight simulator\Sunlight simulator.csproj", "{F1B5ECDA-0084-46E4-BC8B-E6BD478A37CD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sunlight simulator - Setup", "Sunlight simulator - Setup\Sunlight simulator - Setup.vdproj", "{3EEB5F46-2473-4B85-9A6C-77A75119FD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B5ECDA-0084-46E4-BC8B-E6BD478A37CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B5ECDA-0084-46E4-BC8B-E6BD478A37CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B5ECDA-0084-46E4-BC8B-E6BD478A37CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B5ECDA-0084-46E4-BC8B-E6BD478A37CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EEB5F46-2473-4B85-9A6C-77A75119FD17}.Debug|Any CPU.ActiveCfg = Debug
+		{3EEB5F46-2473-4B85-9A6C-77A75119FD17}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C57E35F-0188-4C55-9981-B0AE05FB1137}
+	EndGlobalSection
+EndGlobal
